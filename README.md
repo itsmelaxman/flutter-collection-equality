@@ -1,3 +1,5 @@
+![Dart-Collections-Equality](cequality.png?raw=true "Dart-Collections-Equality")
+
 # Flutter Collection Equality
 
 This repository demonstrates how to compare lists and maps using various equality libraries available in Dart for CLI projects and Flutter apps.
